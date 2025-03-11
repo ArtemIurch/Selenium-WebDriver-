@@ -1,1 +1,9 @@
-# Selenium-WebDriver-
+# Автотесты на Selenium WebDriver с использованием JavaScript
+
+Этот проект содержит автотесты для веб-приложения с использованием Selenium WebDriver, Mocha и Chai.
+
+Структура проекта:
+test.js: Основной файл с автотестами.
+
+additional_tests.txt: Файл с описанием дополнительных тестов или сценариев.
+
